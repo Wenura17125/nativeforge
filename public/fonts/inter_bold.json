@@ -1,0 +1,40 @@
+{
+  "glyphs": {
+    "N": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 76 0 l 76 700 l 180 700 l 524 180 l 524 700 l 600 700 l 600 0 l 496 0 l 152 520 l 152 0 l 76 0 z"
+    },
+    "F": {
+      "ha": 600,
+      "x_min": 0,
+      "x_max": 600,
+      "o": "m 76 0 l 76 700 l 550 700 l 550 632 l 152 632 l 152 384 l 500 384 l 500 316 l 152 316 l 152 0 l 76 0 z"
+    }
+  },
+  "familyName": "Inter",
+  "ascender": 800,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {
+    "yMin": -200,
+    "xMin": 0,
+    "yMax": 800,
+    "xMax": 600
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright © 2020 The Inter Project Authors.",
+    "fontFamily": "Inter",
+    "fontSubfamily": "Bold",
+    "uniqueID": "3.19;RSMS;Inter-Bold",
+    "fullName": "Inter Bold",
+    "version": "3.19",
+    "postScriptName": "Inter-Bold"
+  },
+  "cssFontWeight": "bold",
+  "cssFontStyle": "normal"
+}
